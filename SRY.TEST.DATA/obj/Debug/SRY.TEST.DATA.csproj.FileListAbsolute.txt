@@ -1,0 +1,10 @@
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\bin\Debug\SRY.TEST.DATA.dll.config
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\bin\Debug\SRY.TEST.DATA.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\bin\Debug\SRY.TEST.DATA.pdb
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\bin\Debug\EntityFramework.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\bin\Debug\EntityFramework.xml
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\obj\Debug\SRY.TEST.DATA.csprojResolveAssemblyReference.cache
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\obj\Debug\SRY.TEST.DATA.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.DATA\obj\Debug\SRY.TEST.DATA.pdb

@@ -1,0 +1,12 @@
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\SRY.TEST.BUSSINESS.dll.config
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\SRY.TEST.BUSSINESS.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\SRY.TEST.BUSSINESS.pdb
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\EntityFramework.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\SRY.TEST.DATA.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\SRY.TEST.DATA.pdb
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\EntityFramework.xml
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\obj\Debug\SRY.TEST.BUSINESS.csprojResolveAssemblyReference.cache
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\obj\Debug\SRY.TEST.BUSSINESS.dll
+C:\Users\noda_ozgur\Documents\GitHub\SRY\SRY.TEST\SRY.TEST.BUSSINESS\obj\Debug\SRY.TEST.BUSSINESS.pdb
