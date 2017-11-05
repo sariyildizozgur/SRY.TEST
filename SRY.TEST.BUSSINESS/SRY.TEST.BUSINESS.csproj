@@ -49,6 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Exception\BaseException.cs" />
+    <Compile Include="Exception\CannotSaveItemException .cs" />
     <Compile Include="Deneme.cs" />
     <Compile Include="GenericRepository\Base.cs" />
     <Compile Include="GenericRepository\IRepository.cs" />
