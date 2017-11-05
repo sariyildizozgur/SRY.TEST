@@ -30,7 +30,7 @@ namespace ConsoleApplication1
                 //user.SaveChanges();
 
                 var tt = new UserEntity();
-                tt.GetById("1");
+                //tt.GetById("1");
 
                 var kk = tt.Name;
 

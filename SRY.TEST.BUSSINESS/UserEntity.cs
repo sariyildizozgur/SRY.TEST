@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using SRY.TEST.BUSSINESS.GenericRepository;
-using SRY.TEST.BUSSINESS.Noda;
+using SRY.TEST.BUSSINESS.Company;
 using SRY.TEST.DATA;
 
 namespace SRY.TEST.BUSSINESS

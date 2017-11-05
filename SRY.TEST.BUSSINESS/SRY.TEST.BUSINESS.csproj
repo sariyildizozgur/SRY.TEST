@@ -54,8 +54,8 @@
     <Compile Include="Deneme.cs" />
     <Compile Include="GenericRepository\Base.cs" />
     <Compile Include="GenericRepository\IRepository.cs" />
-    <Compile Include="Noda\INRepository.cs" />
-    <Compile Include="Noda\NBase.cs" />
+    <Compile Include="Company\INRepository.cs" />
+    <Compile Include="Company\NBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnitOfWork\IUnitOfWork .cs" />
     <Compile Include="UnitOfWork\IURepository.cs" />
